@@ -1,26 +1,23 @@
 .heading{
-    margin:0;
-    width:100%;
-    box-shadow: 5px 5px 8px lightcoral;
-    font-size: 25px;
-
+width:100%;
+margin:0px;
+font-size: 25px;
+box-shadow: 5px 5px 8px yellow;
 }
-.note{
-    font-size: 18px;
-    color:darkred;
-}
-#footer{
-    width:100%;
+.footer{
     bottom: 0;
-    text-align: center;
+    width: 100%;
     background-color: black;
     color: white;
     position: fixed;
     line-height: 3;
+    text-align: center;
+}
+#note{
+    font-size: 18px;
+    color: crimson;
 }
 canvas{
-    box-shadow: 5px 5px 5px lightslategray;
-    border:2px solid lightcoral;
-    background-color: lightgreen;
-    border-radius: 10px;
+    border:5px solid pink;
+    border-radius: 8px;
 }
